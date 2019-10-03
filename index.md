@@ -1,4 +1,4 @@
-#  Shally Family serect recipes
+# Family serect recipes
 
 Set of recieps as given by my gramma.
 
